@@ -1,0 +1,6 @@
+ec\edu\espoch\mvcejemplo1\MVCejemplo1.class
+ec\edu\espoch\mvcejemplo1\controlador\ControlarOperaciones.class
+ec\edu\espoch\mvcejemplo1\modelo\InterfazOperaciones.class
+ec\edu\espoch\mvcejemplo1\modelo\Operacion.class
+ec\edu\espoch\mvcejemplo1\modelo\Operaciones.class
+ec\edu\espoch\mvcejemplo1\vista\Vista.class
